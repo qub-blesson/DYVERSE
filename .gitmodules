@@ -1,0 +1,3 @@
+[submodule "Application/FaceDetection-EdgeServer"]
+	path = Application/FaceDetection-EdgeServer
+	url = https://github.com/NanWang0024/FaceDetection-EdgeServer.git
